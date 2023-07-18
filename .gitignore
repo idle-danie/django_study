@@ -9,3 +9,5 @@ db.sqlite3-journal
 media
 sqlite3.dll
 sqlite3.exe
+.vscode
+
